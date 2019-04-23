@@ -1,0 +1,15 @@
+.container {
+    width: 200px;
+    background: rgb(222, 222, 222);
+    text-align: center;
+    margin: 0 auto;
+    padding: 40px 50px;
+  }
+  
+  h1 {
+    margin: 10px 0;
+  }
+  
+  #cool-input {
+    margin-bottom: 10px;
+  }
